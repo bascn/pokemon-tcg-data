@@ -1,11 +1,11 @@
 {
-  "totalCards": 22123,
-  "lastUpdated": "2025-12-07T16:42:38.223131Z",
+  "totalCards": 22755,
+  "lastUpdated": "2026-02-11T20:53:29.564161Z",
   "version": "2.0",
   "source": "TCGdex",
   "indices": {
-    "byName": 4468,
-    "bySet": 197,
+    "byName": 4527,
+    "bySet": 200,
     "byType": 1
   }
 }
